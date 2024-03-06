@@ -134,35 +134,7 @@ shutting down processing monitor...
 done
 </code></pre><div class="zeroclipboard-container">
 
-# INFO: After refinement: H_12 =
-  -0.980558    0.184959   0.0655414  0.00771561
-  0.0495028  -0.0900424    0.994707   0.0836796
-   0.189881    0.978613   0.0791359 -0.00867321
-          0           0           0           1
-Result from /ee_link to /ar_marker_0:
-  -0.980558    0.184959   0.0655414  0.00771561
-  0.0495028  -0.0900424    0.994707   0.0836796
-   0.189881    0.978613   0.0791359 -0.00867321
-          0           0           0           1
-Translation (x,y,z) :  0.00771561   0.0836796 -0.00867321
-Rotation (w,x,y,z): -0.046193, 0.0871038, 0.672938, 0.733099
 
-Result from /ar_marker_0 to /ee_link:
-  -0.980558    0.184959   0.0655414  0.00771561
-  0.0495028  -0.0900424    0.994707   0.0836796
-   0.189881    0.978613   0.0791359 -0.00867321
-          0           0           0           1
-Inverted translation (x,y,z) : 0.00507012 0.0145954 -0.083056
-Inverted rotation (w,x,y,z): -0.046193, 0.0871038, 0.672938, 0.733099
-0.046193 0.0871038 0.672938 0.733099
-
-Writing calibration to &quot;/home/cpaxton/catkin_ws/src/handeye_calib_camodocal/launch/CalibratedTransform.yml&quot;...
-[handeye_calib_camodocal-1] process has finished cleanly
-log file: /home/cpaxton/.ros/log/a829db0a-f96b-11e6-b1dd-fc4dd43dd90b/handeye_calib_camodocal-1*.log
-all processes on machine have died, roslaunch will exit
-shutting down processing monitor...
-... shutting down processing monitor complete
-done" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
