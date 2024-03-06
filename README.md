@@ -133,12 +133,7 @@ shutting down processing monitor...
 ... shutting down processing monitor complete
 done
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# INFO: Before refinement: H_12 =
-  -0.962926   -0.156063     0.22004 -0.00802514
-  -0.176531    0.981315  -0.0765322   0.0242905
-  -0.203985   -0.112539   -0.972484   0.0550756
-          0           0           0           1
-Ceres Solver Report: Iterations: 89, Initial cost: 1.367791e+01, Final cost: 6.005694e-04, Termination: CONVERGENCE
+
 # INFO: After refinement: H_12 =
   -0.980558    0.184959   0.0655414  0.00771561
   0.0495028  -0.0900424    0.994707   0.0836796
