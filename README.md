@@ -322,17 +322,6 @@ Lionel Heng, Paul Furgale, and Marc Pollefeys,
 Leveraging Image-based Localization for Infrastructure-based Calibration of a Multi-camera Rig,
 Journal of Field Robotics (JFR), 2015.
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Lionel Heng, Bo Li, and Marc Pollefeys,
-CamOdoCal: Automatic Intrinsic and Extrinsic Calibration of a Rig with Multiple Generic Cameras and Odometry,
-In Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2013.
-
-Lionel Heng, Mathias Bürki, Gim Hee Lee, Paul Furgale, Roland Siegwart, and Marc Pollefeys,
-Infrastructure-Based Calibration of a Multi-Camera Rig,
-In Proc. IEEE International Conference on Robotics and Automation (ICRA), 2014.
-
-Lionel Heng, Paul Furgale, and Marc Pollefeys,
-Leveraging Image-based Localization for Infrastructure-based Calibration of a Multi-camera Rig,
-Journal of Field Robotics (JFR), 2015." tabindex="0" role="button">
 </svg>
     </clipboard-copy>
   </div></div>
